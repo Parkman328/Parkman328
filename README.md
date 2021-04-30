@@ -7,7 +7,7 @@
 
 Korean American, Raised in the South, World Traveler and Foodie, Proud Dad of 2 Awesome Kids. Husband and Seeker of Discomfort and Constant Search of new.
 
-### This repo is combination of work and play and a hobby for me.
+### This repo is combination of work,play and a hobby for me.
 
 - 🔭 I just started first forray into Open Source Development
 - 🌱 I’m currently learning Algorithmic Trading and Front End Development 🤣

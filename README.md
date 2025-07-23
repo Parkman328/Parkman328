@@ -1,7 +1,7 @@
 ### Hi there, I'm John Park - aka [Parkman328][website] 👋
 
 [![Website](https://img.shields.io/website?label=johnpark.io&style=for-the-badge&url=https://johnpark.io/)](https://johnpark.io)
-[![X Follow](https://img.shields.io/x/follow/jpark328?color=1DA1F2&logo=twitter&style=for-the-badge)](https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Parkman328&screen_name=jpark328)
+[![X Follow](https://img.shields.io/twitter/follow/jpark328?color=1DA1F2&logo=twitter&style=for-the-badge)](https://x.com/jpark328)
 
 ## A little about me
 

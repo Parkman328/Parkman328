@@ -12,7 +12,7 @@ Korean American, Raised in the South, World Traveler and Foodie, Proud Dad of 2 
 - 🔭 I just started first forray into Open Source Development
 - 🌱 I’m currently learning Algorithmic Trading and Front End Development 🤣
 - 👯 I’m looking to collaborate with other developer and get some side jobs
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Launch a Startup
 - ⚡ Fun fact: Love Hiking and Programming
 - 🤔 I’m looking for Partners to start a Open Source Projects on Machine Learning and Kaggle Competitions
 - 💬 Ask me about Qlik Integrations BI and ML Integrations

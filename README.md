@@ -70,16 +70,6 @@ Korean American, Raised in the South, World Traveler and Foodie, Proud Dad of 2 
 
 ---
 
-### Github Activities
-
-<details>
-</details>
-
-### Github Stats
-
-<details>
-</details>
-
 [website]: https://johnpark.io
 [slideshare]: https://www2.slideshare.net/parkman328
 [twitter]: https://twitter.com/jpark328

@@ -1,5 +1,5 @@
 ### Hi there, I'm John Park - aka [Parkman328][website] 👋
-
+[![Website](https://img.shields.io/website?label=johnpark.io&style=for-the-badge&url=https://johnpark.io/)](https://johnpark.io)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cd957574-9bf4-4aa1-9de2-f793c8757291/deploy-status)](https://app.netlify.com/projects/parkman328/deploys)
 [![X Follow](https://img.shields.io/twitter/follow/jpark328?color=1DA1F2&logo=twitter&style=for-the-badge)](https://x.com/jpark328)
 
